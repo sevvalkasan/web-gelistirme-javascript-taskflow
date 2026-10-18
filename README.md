@@ -1,5 +1,7 @@
 # Web Geliştirme; JavaScript — TaskFlow
 
+[Canlı uygulama](https://sevval-taskflow.netlify.app)
+
 React ile geliştirilen görev takip uygulaması. Görevler tarayıcının LocalStorage alanında saklanır. Backend sunucusuna ihtiyaç duymaz.
 
 ## Özellikler
