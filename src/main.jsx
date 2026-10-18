@@ -1,5 +1,5 @@
 import React from 'react';
-import { createRoot } from 'react-dom/client';
-import Dashboard from './Pages/Dashboard.jsx';
+import {createRoot} from 'react-dom/client';
+import Gallery from './Pages/Gallery.jsx';
 import './style.css';
-createRoot(document.getElementById('root')).render(<React.StrictMode><Dashboard /></React.StrictMode>);
+createRoot(document.getElementById('root')).render(<React.StrictMode><Gallery/></React.StrictMode>);
